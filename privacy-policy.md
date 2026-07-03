@@ -46,6 +46,6 @@ Since all data is stored locally on your device, you have full control:
 We may update this privacy policy from time to time. Any changes will be posted to this page with an updated revision date.
 
 ## Contact
-If you have questions about this privacy policy, contact us at: [your email or support URL]
+If you have questions about this privacy policy, contact us at: [routerewindpro@gmail.com]
 
 © 2026 RouteRewindPro. All rights reserved.
